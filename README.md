@@ -1,2 +1,1 @@
-# INHEE01_Algorithm
-INHEE01_Algorithm
+### 알고리즘 저장소
